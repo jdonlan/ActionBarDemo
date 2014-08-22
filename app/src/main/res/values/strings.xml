@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActionBarDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="delete_confirm">Are you sure you want to delete</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string-array name="people">
+        <item>Tyrion Lannister</item>
+        <item>Cersei Lannister</item>
+        <item>Daenerys Targaryen</item>
+        <item>Arya Stark</item>
+        <item>Jon Snow</item>
+        <item>Sansa Stark</item>
+        <item>Jorah Mormont</item>
+        <item>Jaime Lannister</item>
+        <item>Sandor Clegane</item>
+        <item>Tywin Lannister</item>
+        <item>Theon Greyjoy</item>
+        <item>Joffrey Baratheon</item>
+        <item>Catelyn Stark</item>
+        <item>Bran Stark</item>
+        <item>Samwell Tarly</item>
+        <item>Petyr Baelish</item>
+        <item>Varys</item>
+        <item>Robb Stark</item>
+        <item>Brienne of Tarth</item>
+        <item>Bronn</item>
+        <item>Shae</item>
+        <item>Gendry</item>
+        <item>Ygritte</item>
+        <item>Margaery Tyrell</item>
+        <item>Stannis Baratheon</item>
+        <item>Missandei</item>
+        <item>Davos Seaworth</item>
+        <item>Melisandre</item>
+        <item>Gilly</item>
+        <item>Jeor Mormont</item>
+        <item>Tormund Giantsbane</item>
+        <item>Talisa Stark</item>
+        <item>Khal Drogo</item>
+        <item>Eddard Stark</item>
+        <item>Ramsay Bolton</item>
+        <item>Daario Naharis</item>
+        <item>Robert Baratheon</item>
+        <item>Viserys Targaryen</item>
+    </string-array>
+
+</resources>
